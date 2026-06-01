@@ -26,6 +26,14 @@ La simulación usa un modelo de **eventos discretos M/M/1** por cajero, corrida 
 | `Tabla_2 - Probabilidades de los tipos...png` | Probabilidades por tipo de usuario |
 | `codigo_base.py` | Código base provisto por el docente |
 
+Tabla_1 - Detalles de atención de cada cajero y servicio
+<img width="992" height="585" alt="Tabla_1 - Detalles de atención de cada cajero y servicio" src="https://github.com/user-attachments/assets/1c91f5f5-140a-41d8-8695-6cd7415f99b7" />
+
+Tabla_2 - Probabilidades de los tipos de usuario
+<img width="990" height="556" alt="Tabla_2 - Probabilidades de los tipos de usuario" src="https://github.com/user-attachments/assets/a4c093ce-9c89-41c5-9e1a-f2b86f39be1f" />
+
+
+
 ### Archivos generados al ejecutar la simulación
 
 | Archivo generado | Descripción |
